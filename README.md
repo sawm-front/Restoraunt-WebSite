@@ -1,3 +1,3 @@
 # Resto.
 
-https://sawm-front.github.io/restoraunt/
+https://sawm-front.github.io/Restoraunt-WebSite/
